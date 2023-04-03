@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 30,
+      "description": "Access to gym equipment and classes during off-peak hours.",
+      "features": ["Off-peak hours", "Group classes", "No sign-up fee"]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 50,
+      "description": "Access to gym equipment and classes during all hours, including peak hours.",
+      "features": ["All-hours", "Group classes", "No sign-up fee", "Free personal training"]
+    },
+    {
+      "id": 3,
+      "name": "Platinum",
+      "price": 80,
+      "description": "Access to gym equipment and classes during all hours, plus additional perks.",
+      "features": ["All-hours", "Group classes", "No sign-up fee", "Free personal training", "Free smoothie", "Sauna and steam room"]
+    }
+  ]
+  
